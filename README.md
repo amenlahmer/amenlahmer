@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="850" height="350" src="https://miro.medium.com/v2/resize:fit:1400/0*Yb_BsikIKFAtuKj9.gif">
+<img align="center" alt="Coding" width="850" height="200" src="https://miro.medium.com/v2/resize:fit:1400/0*Yb_BsikIKFAtuKj9.gif">
 <h1 align="center">Hi 👋, I'm Amenallah Lahmar</h1>
 <h3 align="center">Data Science Student and ML Enthusiast</h3>
 
