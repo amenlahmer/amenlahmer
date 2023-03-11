@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amenallah Lahmar</h1>
-<h3 align="center">A Data Science Student and ML Enthusiast</h3>
-<img align="center" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*Yb_BsikIKFAtuKj9.gif">
+<h3 align="center">Data Science Student and ML Enthusiast</h3>
+<img align="center" alt="Coding" width="850" height="350" src="https://miro.medium.com/v2/resize:fit:1400/0*Yb_BsikIKFAtuKj9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amenlahmer&label=Profile%20views&color=0e75b6&style=flat" alt="amenlahmer" /> </p>
 
